@@ -46,8 +46,8 @@
 
       <!-- Center Text -->
       <div class="absolute inset-0 flex items-center justify-center">
-        <div class="flex items-center gap-2 text-white/70 text-[10px] tracking-[0.2em] font-medium uppercase">
-          <div class="w-[2px] h-3 bg-white/70"></div>
+        <div class="flex items-center gap-2 text-white text-[10px] tracking-[0.2em] font-medium uppercase bg-primary-600/90 px-4 py-2 backdrop-blur-sm border border-primary-500/30">
+          <div class="w-[2px] h-3 bg-white"></div>
           AI-Powered Workflows
         </div>
       </div>

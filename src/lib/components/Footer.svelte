@@ -43,10 +43,10 @@
     <!-- Bottom Legal Text -->
     <div class="border-t border-gray-900 pt-12 text-[11px] text-gray-600 leading-relaxed flex flex-col gap-6">
       <p>
-        Nevis is SOC 2 Type I certified and maintains enterprise-level security standards. We are committed to protecting client data and maintaining the highest levels of compliance in the financial services industry.
+        Rovaris is SOC 2 Type I certified and maintains enterprise-level security standards. We are committed to protecting client data and maintaining the highest levels of compliance in the financial services industry.
       </p>
       <p>
-        The information provided on this website is for informational purposes only and does not constitute financial, investment, or legal advice. Nevis provides technology solutions for wealth management firms and does not provide investment advisory services directly to end clients.
+        The information provided on this website is for informational purposes only and does not constitute financial, investment, or legal advice. Rovaris provides technology solutions for wealth management firms and does not provide investment advisory services directly to end clients.
       </p>
     </div>
 
@@ -56,7 +56,7 @@
           <path d="M22.0497 45.9167C22.0497 32.5699 32.8409 21.75 46.1523 21.75C59.4639 21.75 70.2549 32.5699 70.2549 45.9167H91.9472C91.9472 20.5576 71.4441 0 46.1523 0C20.8605 0 0.357424 20.5576 0.357422 45.9167C0.35742 71.2757 20.8605 91.8333 46.1523 91.8333V70.0833C32.8409 70.0833 22.0497 59.2637 22.0497 45.9167Z" fill="white"/>
           <path opacity="0.5" d="M70.2548 45.9166C70.2548 59.2634 81.046 70.0833 94.3574 70.0833V91.8333C69.0656 91.8333 48.5625 71.2757 48.5625 45.9166H70.2548Z" fill="white"/>
         </svg>
-        <span class="font-bold text-white tracking-tight">Nevis</span>
+        <span class="font-bold text-white tracking-tight">Rovaris</span>
       </div>
       <span>© 2025 All rights reserved</span>
     </div>
