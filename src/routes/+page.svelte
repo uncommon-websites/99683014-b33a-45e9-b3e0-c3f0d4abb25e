@@ -2,8 +2,10 @@
   import Navbar from '$lib/components/Navbar.svelte';
   import Hero from '$lib/components/Hero.svelte';
   import Logos from '$lib/components/Logos.svelte';
-  import WhyEcho from '$lib/components/WhyEcho.svelte';
+  import WhyNevis from '$lib/components/WhyNevis.svelte';
   import Products from '$lib/components/Products.svelte';
+  import Stats from '$lib/components/Stats.svelte';
+  import Testimonials from '$lib/components/Testimonials.svelte';
   import Founders from '$lib/components/Founders.svelte';
   import FAQ from '$lib/components/FAQ.svelte';
   import BottomCTA from '$lib/components/BottomCTA.svelte';
@@ -14,8 +16,10 @@
   <Navbar />
   <Hero />
   <Logos />
-  <WhyEcho />
+  <WhyNevis />
   <Products />
+  <Stats />
+  <Testimonials />
   <Founders />
   <FAQ />
   <BottomCTA />
